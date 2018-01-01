@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zktomcat7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zktomcat7_jar</output-path>
+    <root id="archive" name="zktomcat7.jar">
+      <element id="module-output" name="zktomcat7" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-servlet-api/7.0.39/tomcat-servlet-api-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/io/netty/netty/3.10.5.Final/netty-3.10.5.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/jline/jline/0.9.94/jline-0.9.94.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/com/101tec/zkclient/0.10/zkclient-0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-juli/7.0.39/tomcat-juli-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-util/7.0.39/tomcat-util-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-annotations-api/7.0.39/tomcat-annotations-api-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/curator/curator-framework/4.0.0/curator-framework-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/curator/curator-recipes/4.0.0/curator-recipes-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/com/google/guava/guava/20.0/guava-20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-catalina/7.0.39/tomcat-catalina-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/log4j/log4j/1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/zookeeper/zookeeper/3.4.10/zookeeper-3.4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/tomcat/tomcat-api/7.0.39/tomcat-api-7.0.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.0.5/repository/org/apache/curator/curator-client/4.0.0/curator-client-4.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
